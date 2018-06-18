@@ -9,14 +9,14 @@ window.onload = () => {
   var logo2 = document.getElementById('logo2');
 	var botonDos = document.getElementById('btnDos');
 	botonDos.addEventListener('click', function() {
-		logo.style.display = 'block';
+		logo2.style.display = 'block';
 		obtenerGatos();
 });
 
 	var logo3 = document.getElementById('logo3');
 	var botonTres = document.getElementById('btnTres');
 	botonTres.addEventListener('click', function() {
-		logo.style.display = 'block';
+		logo3.style.display = 'block';
 		dogesYCatesEnParalelo();
 });
 
