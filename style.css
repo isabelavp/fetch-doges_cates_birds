@@ -1,0 +1,32 @@
+#btn{
+	background-color: green;
+	color: white;
+	font-size: 20px;
+}
+
+#btnDos{
+	background-color: blue;
+	color: yellow;
+	font-size: 20px;
+}
+
+#btnTres{
+
+	background-color: red;
+	color: white;
+	font-size: 20px;
+}
+
+#logo {
+	display: none;
+}
+#logo2 {
+	display: none;
+}
+#logo3 {
+	display: none;
+}
+
+
+
+
